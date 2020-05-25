@@ -75,3 +75,14 @@ print(third_split)
 #Output
 # 1
 ```
+
+#### spongebob_mocking.py
+a python script to generate spongeBob mocking texts
+
+
+```python
+
+#Input:  "I love Python"
+#Output: "I lOvE pYtHoN"
+
+```
