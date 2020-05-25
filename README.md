@@ -77,7 +77,7 @@ print(third_split)
 ```
 
 #### spongebob_mocking.py
-#### A Python Script to Generate SpongeBob Mocking Texts
+a python script to generate spongeBob mocking texts
 
 
 ```python
